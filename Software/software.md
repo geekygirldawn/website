@@ -30,9 +30,10 @@ This overview contains only a few of the many scenarios that might bring someone
 
 ## CollectOSS
 
-* Data is collected incrementally and includes all messages and commits associated with issues, pull requests, and pull request reviews, including historical data. This high velocity collection has been tested for up to 100,000 repositories, enabling assessment of diverse open source software ecosystems. 
+* Data is collected incrementally and includes all messages and commits associated with issues, pull requests, and pull request reviews, including historical data.
+* Our high velocity parallel data collection is being used in production with over 40,000 repositories, enabling assessment of diverse open source software ecosystems.
+* The CollectOSS community is always improving automated tests, documentation, and practicing transparent quality assurance processes to make CollectOSS a reliable source of upstream health data with full observability.
 * Collection and analysis goes beyond the counting of activities to include license coverage and license type information, COCOMO based software complexity and cost of replacement data by project and file, software dependency scanning, measurement of dependency [LibYears](https://libyear.com/), and time series persistent OpenSSF Scorecard information.
-* Understanding of community health is extended through automatically detecting unusual activity by performing computational linguistics machine learning analysis and contribution anomaly detection.
 * Users can explore complex or unanticipated questions while performing in-depth research using CollectOSS’s relational database or API to write custom queries.
 * CollectOSS includes data visualizations through an extensible frontend built using tools familiar to data scientists (e.g., Dash and Plotly) upon which [8Knot](https://eightknot.osci.io) is developed.
 
