@@ -14,7 +14,7 @@ CollectOSS’s distinctive features are that you can use it to:
 * collect data at scale with support for rotating API keys and collection that can scale to tens of thousands of repositories
 * write custom queries that explore complex or unanticipated questions using data science or data engineering tools that are built for relational databases and structured data.
 * explore data about compliance, security, dependencies, and related software topics to better understand potential risks associated with an open source project.
-* Use visualizations to learn about community health and explore the CollectOSS data in action using the [8Knot](https://eightknot.osci.io) dashboard.
+* use visualizations to learn about community health and explore the CollectOSS data in action using the [8Knot](https://eightknot.osci.io) dashboard.
 
 While anyone can use either tool to derive meaningful insights:
 
